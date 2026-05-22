@@ -71,15 +71,6 @@ Foram utilizados dois tipos principais de análise:
 .size() → para contagem de indivíduos
 .mean() → para cálculo de taxa de sobrevivência
 
-
-#6. Insights obtidos
-A partir das análises, foi possível observar padrões importantes, como:
-
-*Diferença na taxa de sobrevivência entre gêneros
-*Influência da classe social na sobrevivência
-*Impacto da idade nas chances de sobrevivência
-*Possível relação entre possuir cabine e maior chance de sobreviver
-
 Foram tambem geradas visualizações gráficas utilizando matplotlib, permitindo uma melhor interpretação dos dados e identificação de padrões de sobrevivência.
 
 CONCLUSÃO

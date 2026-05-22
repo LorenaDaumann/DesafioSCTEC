@@ -92,4 +92,11 @@ documentação (README);
 gráficos gerados;
 análises e insights;
 integração com GitHub.
+
+
+PARA ATUALIZAÇÃO DO CÓDIGO (COMMIT)
+git add .
+git commit -m "mensagem"
+git push
+
   -->
